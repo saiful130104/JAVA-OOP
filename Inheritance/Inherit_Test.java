@@ -1,6 +1,5 @@
-
+//Author : Saiful Islam
 package Inheritance;
-
 
 public class Inherit_Test {
     public static void main(String[] args) {
